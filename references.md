@@ -1,3 +1,2 @@
-# References
-
-* octocat 1 😈
+Esto es una prueba de conflictos
+=======
